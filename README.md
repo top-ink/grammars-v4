@@ -1,3 +1,6 @@
+学习shardingsphere，顺带看看相关技术。
+
+
 ![CI](https://github.com/antlr/grammars-v4/workflows/CI/badge.svg)
 
 # grammars-v4
